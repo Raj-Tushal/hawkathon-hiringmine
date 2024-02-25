@@ -15,13 +15,20 @@ nav{
     width: 200px;
 }
 .sec1{
-    width: 100%;
+    width: 90%;
     height: 100%;
+    padding-top: 81px;
+    padding-left: 10%;
 }
 /* section 1 */
 
 .heading{
     color:#6851ff;
+    font-size: 6vw;
+}
+.heading h1{
+    font-size: 6vw;
+    font-weight: 700;
 }
 .para{
     font-weight: bold;
@@ -31,12 +38,16 @@ nav{
 }
 .findjob{
     border-radius: 15px;
-     background:aliceblue;     
+    background:aliceblue;
     color: #6851ff;
+    border: 1px solid blue;
 }
 
 .logo{
     padding:10px;
 }
  .heading3{
+}
+.navbar-nav{
+    padding-left: 9%;
 }
